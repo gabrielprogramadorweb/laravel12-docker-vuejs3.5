@@ -1,8 +1,4 @@
-Aqui está a tradução para o português:
-
----
-
-## 🚀 **Docker Laravel**
+## **Docker Laravel**
 
 ### 1. Clone o projeto
 
