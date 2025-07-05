@@ -54,6 +54,11 @@ php artisan key:generate
 php artisan migrate
 ```
 
+### 7. Instalar npm no frontend
+```bash
+cd frontend
+npm i
+```
 ## 🚀 Acesso Rápido
 
 - 🌐 Frontend Vue: [http://localhost:5173/](http://localhost:5173/)
