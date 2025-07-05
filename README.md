@@ -57,7 +57,7 @@ php artisan migrate
 ### 7. Instalar npm no frontend
 ```bash
 cd frontend
-npm i
+npm install
 ```
 ## 🚀 Acesso Rápido
 
