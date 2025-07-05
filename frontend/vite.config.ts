@@ -15,4 +15,12 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
+  server: {
+    host: true,        // permite acesso externo (0.0.0.0)
+    port: 5173,        // porta padrão do Vite
+    strictPort: true,  // evita fallback de porta
+    watch: {
+      usePolling: true // necessário para ambientes como Docker
+    }
+  }
 })

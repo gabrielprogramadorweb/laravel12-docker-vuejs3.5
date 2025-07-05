@@ -9,7 +9,7 @@ git clone git@github.com:gabrielprogramadorweb/laravel12-docker-vuejs3.5.git
 ### 2. Acesse o diretório do projeto
 
 ```bash
-cd laravel12-docker-vuejs3.5/sistema
+cd laravel12-docker-vuejs3.5/backend
 ```
 
 ### 3. Crie o arquivo `.env`
