@@ -54,3 +54,8 @@ php artisan key:generate
 php artisan migrate
 ```
 
+## 🚀 Acesso Rápido
+
+- 🌐 Frontend Vue: [http://localhost:5173/](http://localhost:5173/)
+- 🔧 API Laravel: [http://localhost:8080/](http://localhost:8080/)
+- 🗃️ PHPMyAdmin: [http://localhost:8888/](http://localhost:8888/)
